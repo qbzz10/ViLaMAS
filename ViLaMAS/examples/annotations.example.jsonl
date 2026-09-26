@@ -1,0 +1,4 @@
+{"id":"example-001","synthetic":true,"question":"In this fictional example, which color is described?","options":["Amber","Blue","Green"],"duration_group":"short","video_path":"videos/demo_001.mp4","subtitle_path":null}
+{"id":"example-002","synthetic":true,"question":"In this fictional example, which shape is described?","options":["Triangle","Circle","Square"],"duration_group":"short","video_path":"videos/demo_002.mp4","subtitle_path":"subtitles/demo_002.srt"}
+{"id":"example-003","synthetic":true,"question":"In this fictional example, which object is described?","options":["Ball","Cup","Box"],"duration_group":"medium","video_path":"videos/demo_003.mp4","subtitle_path":null}
+{"id":"example-004","synthetic":true,"question":"In this fictional example, which action is described?","options":["Opening","Closing","Turning"],"duration_group":"long","video_path":"videos/demo_004.mp4","subtitle_path":null}
